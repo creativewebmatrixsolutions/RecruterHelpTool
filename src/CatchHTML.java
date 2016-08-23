@@ -1,29 +1,10 @@
 
 import java.io.IOException;
-import java.io.InputStream;
-import java.util.List;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
-import org.apache.http.Header;
-import org.apache.http.HttpEntity;
-import org.apache.http.client.CookieStore;
-import org.apache.http.client.config.CookieSpecs;
-import org.apache.http.client.config.RequestConfig;
-import org.apache.http.client.methods.CloseableHttpResponse;
-import org.apache.http.client.methods.HttpGet;
-import org.apache.http.cookie.Cookie;
-import org.apache.http.impl.client.CloseableHttpClient;
-import org.apache.http.impl.client.HttpClients;
-import org.apache.http.protocol.BasicHttpContext;
-import org.apache.http.protocol.HttpContext;
-
 import Resource.HOST;
-import Resource.ResourcePage;
-import Resource.ResourcePageZhilian;
-import cacheutils.CookieTool;
-import cacheutils.InputStreamUtils;
 import cacheutils.ScanTask;
 
 public class CatchHTML {
