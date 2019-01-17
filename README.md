@@ -14,6 +14,6 @@ Building a database of potential quilified and non qualified applicants that can
 
 It can be instaled as a web browser extention, web app and mobile version for flexibility and mantained by the cloud server. 
 
-For more technical information please comtact the developer at info@creatuvewebmatrixsolutions.com
+For more technical information please comtact the developer at info@creativewebmatrixsolutions.com
 
 FOR JOBS DETAILS PLEASE CONTACT THE RECRUTER AT 
